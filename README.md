@@ -1,11 +1,12 @@
 ```
+skills
 JavaScript React TypeScript Redux
 HTML CSS
 Ext JS Node.js PHP5 MySQL Git Scrum БЭМ
 
-telegram
-@semenovem
+dev experience > 10 y 
 ```
+[telegram @semenovem](https://t.me/semenovem)
 
 
 ## Ростелеком Информационные Технологии   
