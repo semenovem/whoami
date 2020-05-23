@@ -1,8 +1,9 @@
 ```
 skills
-JavaScript React TypeScript Redux Java
-HTML CSS
-Ext JS Node.js PHP5 MySQL Git Scrum БЭМ
+Java, Docker
+JavaScript, React, TypeScript, Redux
+HTML, CSS
+ExtJS, Node.js, PHP, MySQL, Scrum, БЭМ
 
 dev experience > 10 y 
 ```
