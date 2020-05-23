@@ -1,5 +1,6 @@
+[resume here](https://github.com/semenovem/whoami/blob/master/README.md)
 ```
-skills
+skills:
 Java, Docker
 JavaScript, React, TypeScript, Redux
 HTML, CSS
@@ -7,6 +8,7 @@ ExtJS, Node.js, PHP, MySQL, Scrum, БЭМ
 
 dev experience > 10 y 
 ```
+[github](https://github.com/semenovem)
 [telegram @semenovem](https://t.me/semenovem)
 
 ## Банк ВТБ   
