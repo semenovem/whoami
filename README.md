@@ -1,4 +1,6 @@
-[resume here](https://github.com/semenovem/whoami/blob/master/README.md)
+[resume](https://github.com/semenovem/whoami/blob/master/README.md)   
+[github](https://github.com/semenovem)   
+[telegram @semenovem](https://t.me/semenovem)
 ```
 skills:
 Java, Docker
@@ -8,15 +10,13 @@ ExtJS, Node.js, PHP, MySQL, Scrum, БЭМ
 
 dev experience > 10 y 
 ```
-[github](https://github.com/semenovem)
-[telegram @semenovem](https://t.me/semenovem)
+
 
 ## Банк ВТБ   
 > Москва, https://www.vtb.ru/    
 > <sub>Декабрь 2019 - наст.время  
 > <sub>5 мес</sub></sub>  
 > **Ведущий разработчик**  
-> 
 > ```
 > на проекте:
 > java / docker / golang
@@ -26,17 +26,14 @@ dev experience > 10 y
 Проект:
 Блокчейн - b2b проведения финансовых транзакций 
 
-
-
-
-<br/><br/><br/>
+<br />
+<hr />
 
 ## Ростелеком Информационные Технологии   
 > Москва, https://www.rtk-infotech.ru/    
 > <sub>Июл 2017 - Дек 2019  
 > <sub>2 года 6 мес</sub></sub>  
 > **Ведущий разработчик**  
-> 
 > ```
 > на проекте:
 > typescript, react, redux
@@ -54,9 +51,8 @@ dev experience > 10 y
 Работа с ТехДолгом: 1-3 задачи за спринт
 
 
-  
-<br/><br/><br/>
-  
+<br />
+<hr />
 
 ## Яндекс  
 > Москва, www.yandex.ru   
@@ -64,7 +60,6 @@ dev experience > 10 y
 > <sub>10 месяцев</sub></sub>  
 > **Разработчик интерфейсов**  
 > <sub>Разрабатывал интерфейс для размещения контекстной рекламы.</sub>  
->
 > ```
 > На проекте
 > git, svn, teamcity, unit-тесты, CI, es5, scrum и распределенная команда
@@ -80,9 +75,8 @@ dev experience > 10 y
 - Тесты
 
 
-<br/><br/><br/>
-
-
+<br />
+<hr />
 
 ## АО «НПО РусБИТех»  
 > Москва, rusbitech.ru  
@@ -102,9 +96,9 @@ dev experience > 10 y
 - CI на проектах - авто сборка, после новых новых коммитов на dev сервере
 
    
- <br/><br/><br/>
- 
-      
+<br />
+<hr />
+
 ## Подружка, сеть магазинов   
 > Москва, www.podrygka.ru/   
 > <sub>Январь 2010 — август 2015   
