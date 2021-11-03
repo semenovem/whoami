@@ -3,10 +3,8 @@
 [telegram @semenovem](https://t.me/semenovem)
 ```
 skills:
-Java, Docker
-JavaScript, React, TypeScript, Redux
-HTML, CSS
-ExtJS, Node.js, PHP, MySQL, Scrum, БЭМ
+golang, java, docker, sql
+js/ts, react/redux, html, css
 
 dev experience > 10 y 
 ```
@@ -14,18 +12,17 @@ dev experience > 10 y
 
 ## Банк ВТБ   
 > Москва, https://www.vtb.ru/    
-> <sub>Декабрь 2019 - наст.время  
-> <sub>5 мес</sub></sub>  
+> <sub>Декабрь 2019 - наст.время</sub>
+>
 > **Ведущий разработчик**  
 > ```
 > на проекте:
-> java / docker / golang
-> scrum / 1week sprints
+> java / golang / docker / hyperledger fabric
+> scrum / 2week sprints
 > ```
 
-Проект:
-Блокчейн - b2b проведения финансовых транзакций 
-
+Блокчейн проведения финансовых транзакций
+Авиа-заправки
 <br />
 <hr />
 
@@ -35,7 +32,6 @@ dev experience > 10 y
 > <sub>2 года 6 мес</sub></sub>  
 > **Ведущий разработчик**  
 > ```
-> на проекте:
 > typescript, react, redux
 > scrum / 2week sprints
 > ```
@@ -61,7 +57,6 @@ dev experience > 10 y
 > **Разработчик интерфейсов**  
 > <sub>Разрабатывал интерфейс для размещения контекстной рекламы.</sub>  
 > ```
-> На проекте
 > git, svn, teamcity, unit-тесты, CI, es5, scrum и распределенная команда
 > ```
 
@@ -115,4 +110,3 @@ dev experience > 10 y
 - Согласование требований внутренних заказчиков
 - Подготовка предложений по созданию новых IT сервисов для сотрудников.
 - Обмена данными с корпоративными сайтами: podrygka.ru, rabotavpodrygke.ru.
-
