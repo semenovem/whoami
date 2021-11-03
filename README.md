@@ -3,10 +3,8 @@
 [telegram @semenovem](https://t.me/semenovem)
 ```
 skills:
-Java, Docker
-JavaScript, React, TypeScript, Redux
-HTML, CSS
-ExtJS, Node.js, PHP, MySQL, Scrum, БЭМ
+golang, java, docker, sql
+js/ts, react/redux, html, css
 
 dev experience > 10 y 
 ```
@@ -14,18 +12,17 @@ dev experience > 10 y
 
 ## Банк ВТБ   
 > Москва, https://www.vtb.ru/    
-> <sub>Декабрь 2019 - наст.время  
-> <sub>5 мес</sub></sub>  
+> <sub>Декабрь 2019 - наст.время
 > **Ведущий разработчик**  
 > ```
 > на проекте:
-> java / docker / golang
-> scrum / 1week sprints
+> java / golang / docker / hyperledger fabric
+> scrum / 2week sprints
 > ```
 
 Проект:
-Блокчейн - b2b проведения финансовых транзакций 
-
+Блокчейн проведения финансовых транзакций
+Авиа-заправки
 <br />
 <hr />
 
