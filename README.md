@@ -1,12 +1,15 @@
-[resume](https://github.com/semenovem/whoami/blob/master/README.md)   
+
+## Семёнов Евгений
+
+[resume](https://github.com/semenovem/whoami/blob/master/README.md)
 [github](https://github.com/semenovem)   
 [telegram @semenovem](https://t.me/semenovem)
 ```
 skills:
-golang, java, docker, sql
+golang, java, docker/podamn, sql
 js/ts, react/redux, html, css
 
-dev experience > 10 y 
+dev experience > 12 y  
 ```
 
 
@@ -17,12 +20,21 @@ dev experience > 10 y
 > **Ведущий разработчик**  
 > ```
 > на проекте:
-> java / golang / docker / hyperledger fabric
+> golang / docker,podman / hyperledger fabric(HF) / ibmmq
+> prometheus / teamcity / rhel 7,8
 > scrum / 2week sprints
 > ```
 
-Интерфейсы для партнеров
-Авиа-заправки
+Проекты:  
+- Интерфейсы для партнеров
+- Авиа-заправки
+  
+Разработка ПО для передачи транзакций из внешних систем (`HF`,`sftp`) во внутреннние  
+Развертывание, поддержка приложений и `HF` в `docker-swarm / podman`  
+openssl: все действия с сертификатами `rsa/esdsa`, `pem/der`, `csc,self-signed,enroll`  
+Работа с хранилищами крипто-материалов `keytool`, `runmqakm`, `hsm`, `softhsm`  
+
+
 <br />
 <hr />
 
