@@ -1,17 +1,14 @@
 {
   "name": "whoami",
-  "version": "1.0.0",
-  "description": "about me",
-  "main": "index.js",
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
-  },
+  "version": "1.1.1",
+  "description": "my resume",
   "repository": {
     "type": "git",
     "url": "git+https://github.com/semenovem/whoami.git"
   },
   "keywords": [
-    "resume"
+    "resume",
+    "semenov"
   ],
   "author": "semenov em <semenovem@gmail.com>",
   "license": "ISC",

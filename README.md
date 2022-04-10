@@ -1,20 +1,34 @@
 
 ### Семёнов Евгений
 
-[resume](https://github.com/semenovem/whoami/blob/master/README.md)
-[github](https://github.com/semenovem)   
-[telegram @semenovem](https://t.me/semenovem)
+| github    | [https://github.com/semenovem](https://github.com/semenovem) |
+|:----------|:-------------------------------------------------------------|
+| контакт   | [@semenovem](https://t.me/semenovem)                         |
+
 ```
-skills:
-golang, java, docker/podman, sql
+# Актуальные хард-скиллы:
+golang, docker/podman, sql, ibmmq
 js/ts, react/redux, html, css
 
-dev experience > 12 y  
+опыт разработки > 12 y  
+
+# Прошлый опыт:
+java, kotlin, gradle, android, php5, ExtJS
 ```
 
 
-### Банк ВТБ    
-> Москва, https://www.vtb.ru/    
+| Примеры кода / pet-проекты               |                                                                                                                                    |
+|------------------------------------------|:-----------------------------------------------------------------------------------------------------------------------------------|
+| code on golang                           | [https://github.com/semenovem/mqm](https://github.com/semenovem/mqm)                                                               |
+| frontend (ts, react, css)                | [https://github.com/semenovem/personal-site-idelia-on-react](https://github.com/semenovem/personal-site-idelia-on-react)           |
+| openssl (x509, hsm, keytool, fabric-ca)  | [https://github.com/semenovem/tool-crypto](https://github.com/semenovem/tool-crypto)                                               |           
+| bash `yeah it's weird`                   | [https://github.com/semenovem/mqm/blob/main/crypto/crypto-app.sh](https://github.com/semenovem/mqm/blob/main/crypto/crypto-app.sh) |
+| docker - any where*                      | [https://github.com/semenovem/*](https://github.com/semenovem)                                                                     |
+
+
+
+### Банк ВТБ 
+> Москва, https://www.vtb.ru/  
 > <sub>Декабрь 2019 - наст.время (2г 3мес)</sub>  
 > **Ведущий разработчик**  
 > ```
@@ -34,7 +48,6 @@ openssl: все действия с сертификатами `rsa/esdsa`, `pem
 Работа с хранилищами крипто-материалов `keytool`, `runmqakm`, `hsm`, `softhsm`  
 
 
-<br />
 <hr />
 
 ### Ростелеком Информационные Технологии   
@@ -57,7 +70,6 @@ openssl: все действия с сертификатами `rsa/esdsa`, `pem
 Работа с ТехДолгом: 1-3 задачи за спринт
 
 
-<br />
 <hr />
 
 ### Яндекс  
@@ -79,7 +91,6 @@ openssl: все действия с сертификатами `rsa/esdsa`, `pem
 - Тесты
 
 
-<br />
 <hr />
 
 ### АО «НПО РусБИТех»  
@@ -98,8 +109,7 @@ openssl: все действия с сертификатами `rsa/esdsa`, `pem
 - Разработка “само документирующийся” кодом (содержательные именования классов, методов, переменных) + описание в формате JSDoc.
 - CI на проектах - авто сборка, после новых новых коммитов на dev сервере
 
-   
-<br />
+
 <hr />
 
 ### Подружка, сеть магазинов   
