@@ -1,9 +1,10 @@
 
 ### Семёнов Евгений
 
-| github    | [https://github.com/semenovem](https://github.com/semenovem) |
-|:----------|:-------------------------------------------------------------|
-| контакт   | [@semenovem](https://t.me/semenovem)                         |
+| github        | [https://github.com/semenovem](https://github.com/semenovem)            |
+|:--------------|:------------------------------------------------------------------------|
+| скачать в PDF | [скачать ⤵️](https://github.com/semenovem/whoami/raw/master/resume.pdf) |
+| контакт       | [@semenovem](https://t.me/semenovem)                                    |
 
 ```
 # Актуальные хард-скиллы:
@@ -15,20 +16,22 @@ js/ts, react/redux, html, css
 # Прошлый опыт:
 java, kotlin, gradle, android, php5, ExtJS
 ```
+<br/>
+
+| Примеры кода / pet-проекты              |                                                                                                                                    |
+|-----------------------------------------|:-----------------------------------------------------------------------------------------------------------------------------------|
+| code on golang                          | [https://github.com/semenovem/mqm](https://github.com/semenovem/mqm)                                                               |
+| frontend (ts, react, css)               | [https://github.com/semenovem/personal-site-idelia-on-react](https://github.com/semenovem/personal-site-idelia-on-react)           |
+| openssl (x509, hsm, keytool, fabric-ca) | [https://github.com/semenovem/tool-crypto](https://github.com/semenovem/tool-crypto)                                               |           
+| shell `yeah, it's weird`                | [https://github.com/semenovem/mqm/blob/main/crypto/crypto-app.sh](https://github.com/semenovem/mqm/blob/main/crypto/crypto-app.sh) |
+| docker - any where*                     | [https://github.com/semenovem/*](https://github.com/semenovem)                                                                     |
 
 
-| Примеры кода / pet-проекты               |                                                                                                                                    |
-|------------------------------------------|:-----------------------------------------------------------------------------------------------------------------------------------|
-| code on golang                           | [https://github.com/semenovem/mqm](https://github.com/semenovem/mqm)                                                               |
-| frontend (ts, react, css)                | [https://github.com/semenovem/personal-site-idelia-on-react](https://github.com/semenovem/personal-site-idelia-on-react)           |
-| openssl (x509, hsm, keytool, fabric-ca)  | [https://github.com/semenovem/tool-crypto](https://github.com/semenovem/tool-crypto)                                               |           
-| bash `yeah it's weird`                   | [https://github.com/semenovem/mqm/blob/main/crypto/crypto-app.sh](https://github.com/semenovem/mqm/blob/main/crypto/crypto-app.sh) |
-| docker - any where*                      | [https://github.com/semenovem/*](https://github.com/semenovem)                                                                     |
-
-
+<br/>
+<hr />
 
 ### Банк ВТБ 
-> Москва, https://www.vtb.ru/  
+> Москва, `vtb.ru`  
 > <sub>Декабрь 2019 - наст.время (2г 3мес)</sub>  
 > **Ведущий разработчик**  
 > ```
@@ -51,7 +54,7 @@ openssl: все действия с сертификатами `rsa/esdsa`, `pem
 <hr />
 
 ### Ростелеком Информационные Технологии   
-> Москва, https://www.rtk-infotech.ru/    
+> Москва, `rt.ru`   
 > <sub>Июл 2017 - Дек 2019  (2г 6мес)</sub>  
 > **Ведущий разработчик**  
 > ```
@@ -61,10 +64,10 @@ openssl: все действия с сертификатами `rsa/esdsa`, `pem
 
 
 Проекты:  
-- Интерактивное ТВ https://wink.rt.ru - версия для `smart TV` до 31.12.2018
-- Система Умный Дом https://lk.smarthome.rt.ru/ текущий проект
+- Интерактивное ТВ `wink.rt.ru` - версия для `smart TV`
+- Система Умный Дом
 
-Проект `smarthome` перешел от внешней команды. Есть легаси.  
+Проект `smarthome` перешел от внешней команды.  
 Поддерживал текущее состояние, в новых модулях/частях переходил к модульной архитектуре 
 Новая функциональность выкатывали раз в 1-3 спринта
 Работа с ТехДолгом: 1-3 задачи за спринт
@@ -73,7 +76,7 @@ openssl: все действия с сертификатами `rsa/esdsa`, `pem
 <hr />
 
 ### Яндекс  
-> Москва, www.yandex.ru   
+> Москва, `yandex.ru`   
 > <sub>Октябрь 2016 — июль 2017 (10мес)</sub>  
 > **Разработчик интерфейсов**  
 > <sub>Разрабатывал интерфейс для размещения контекстной рекламы.</sub>  
@@ -94,7 +97,7 @@ openssl: все действия с сертификатами `rsa/esdsa`, `pem
 <hr />
 
 ### АО «НПО РусБИТех»  
-> Москва, rusbitech.ru  
+> Москва, `rusbitech.ru`  
 > <sub>Сентябрь 2015 — сентябрь 2016  (1г 1мес)</sub>  
 > **Фронтенд-разрабочик**  
 
@@ -113,7 +116,7 @@ openssl: все действия с сертификатами `rsa/esdsa`, `pem
 <hr />
 
 ### Подружка, сеть магазинов   
-> Москва, www.podrygka.ru/   
+> Москва, `podrygka.ru`  
 > <sub>Январь 2010 — август 2015  (5лет 8мес)</sub>   
 > **Разработчик**
 
