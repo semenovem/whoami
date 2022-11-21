@@ -1,9 +1,9 @@
 ### Семёнов Евгений
 
-| github        | [https://github.com/semenovem](https://github.com/semenovem)            |
-|:--------------|:------------------------------------------------------------------------|
-| скачать в PDF | [скачать ⤵️](https://github.com/semenovem/whoami/raw/master/resume.pdf) |
-| telegram      | [@semenovem](https://t.me/semenovem)                                    |
+| github        | [https://github.com/semenovem](https://github.com/semenovem)          |
+|:--------------|:----------------------------------------------------------------------|
+| скачать в PDF | [скачать ⤵️](https://github.com/semenovem/whoami/raw/main/resume.pdf) |
+| telegram      | [@semenovem](https://t.me/semenovem)                                  |
 
 ```
 # Опыт разработки > 12 y
@@ -47,11 +47,12 @@ java, kotlin, gradle, android, php5, ExtJS, Hyperledger Fabric, ibmmq
 
 Проекты, задачи:  
 - dion (dion.vc) платформа видео-конференций
+- Проектирование и поддержка микросервисов клиентского api
 - Разработка полнотекствого поиска (postgres)
 - Поддержка системы авторизации/аутентификации (jwt токены/политики)
 - Интерфейсы для партнеров: клиринг для iata.org 
 - Авиа-заправки: ПО для передачи транзакций из внешних систем (`HF`,`sftp`) во внутреннние
-- Развертывание, поддержка приложений и `HF` в `docker-swarm / podman`
+- Развертывание, поддержка приложений в `docker-swarm / podman`
 - Работа с хранилищами крипто-материалов `keytool`, `runmqakm`, `hsm`, `softhsm`
 
 
@@ -113,7 +114,7 @@ java, kotlin, gradle, android, php5, ExtJS, Hyperledger Fabric, ibmmq
 
 <hr />
 
-### Подружка, сеть магазинов    
+### Подружка, сеть магазинов `www.podrygka.ru`   
 > <sub>Январь 2010 — август 2015  (5лет 8мес)</sub>   
 > **Разработчик**
 
