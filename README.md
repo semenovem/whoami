@@ -7,18 +7,18 @@
 
 ```
 # Опыт разработки > 12 y
-golang, docker/podman, sql, ibmmq, linux
-js/ts, react/redux, html, css
+Актуальный стек на текущем проекте:  
+golang, docker/podman, sql (postgres), linux
 
-# Прошлый опыт:
-java, kotlin, gradle, android, php5, ExtJS, Hyperledger Fabric
+# Прошлый опыт на предыдущих проектах:
+js/ts, react/redux, html, css
+java, kotlin, gradle, android, php5, ExtJS, Hyperledger Fabric, ibmmq
 ```
 <hr />
   
 #### Что ищу:
 > ```
-> бекенд (golang) или фронтенд (react)  
-> готов развиваться в сторону devOps  
+> бекенд (golang, sql, ci/cd)
 > ```
 
 <br/>
@@ -35,22 +35,23 @@ java, kotlin, gradle, android, php5, ExtJS, Hyperledger Fabric
 <br/>
 <hr />
 
-### Банк ВТБ, Иннотех `vtb.ru`,  `inno.tech`
-> <sub>Декабрь 2019 - Май 2022 (2г 5мес)</sub>  
+### Иннотех `inno.tech`
+> <sub>Декабрь 2019 - по наст.время (3+г)</sub>  
 > **Ведущий разработчик**  
 > ```
 > на проекте:
-> golang / docker,podman / hyperledger fabric(HF) / ibmmq
-> prometheus / teamcity / rhel 7,8
-> scrum / 2week sprints
+> разработка: golang / docker,podman / postgres, redis / linux
+> ci/cd: gitlab / teamcity
+> мониторинг: prometheus, elasticsearch
 > ```
 
 Проекты, задачи:  
-- Интерфейсы для партнеров
-- Авиа-заправки
-- Разработка ПО для передачи транзакций из внешних систем (`HF`,`sftp`) во внутреннние
+- dion (dion.vc) платформа видео-конференций
+- Разработка полнотекствого поиска (postgres)
+- Поддержка системы авторизации/аутентификации (jwt токены/политики)
+- Интерфейсы для партнеров: клиринг для iata.org 
+- Авиа-заправки: ПО для передачи транзакций из внешних систем (`HF`,`sftp`) во внутреннние
 - Развертывание, поддержка приложений и `HF` в `docker-swarm / podman`
-- openssl: все действия с сертификатами `rsa/esdsa`, `pem/der`, `csc,self-signed,enroll`
 - Работа с хранилищами крипто-материалов `keytool`, `runmqakm`, `hsm`, `softhsm`
 
 
