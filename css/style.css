@@ -11,3 +11,24 @@ body {
 
   line-height: 1.1em;
 }
+
+table:last-child {
+  /*border: #ccc 1px solid;*/
+  width: 100%;
+}
+
+table:last-child td {
+  border-bottom: #ccc 1px solid;
+  /*color: red;*/
+  /*background-color: aqua;*/
+}
+table:last-child tr td:last-child {
+  line-height: 10px;
+  width: 40%;
+  /*color: red;*/
+  /*background-color: aqua;*/
+}
+
+/*table:last-child tr:first-child {*/
+/*  display: none;*/
+/*}*/
