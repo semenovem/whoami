@@ -8,24 +8,13 @@
 ```
 # Опыт разработки > 14 y
 Актуальный стек на текущем проекте:  
-golang, docker/podman, sql (postgres), linux
+golang, sql (postgres), linux
 
 # Прошлый опыт на предыдущих проектах:
-js/ts, react/redux, html, css
+js/ts, react/redux, html/css
 java, kotlin, gradle, android, php5, ExtJS, Hyperledger Fabric, ibmmq
 ```
-<hr />
 
-| Примеры кода / pet-проекты        |                                                                                                                                    |
-|-----------------------------------|:-----------------------------------------------------------------------------------------------------------------------------------|
-| <sub>code on golang               | <sub>[https://github.com/semenovem/mqm](https://github.com/semenovem/mqm)                                                               |
-| <sub>frontend (ts, react, css)    | <sub>[https://github.com/semenovem/personal-site-idelia-on-react](https://github.com/semenovem/personal-site-idelia-on-react)           |
-| <sub>openssl (x509, hsm, keytool) | <sub>[https://github.com/semenovem/tool-crypto](https://github.com/semenovem/tool-crypto)                                               |           
-| <sub>shell                        | <sub>[https://github.com/semenovem/mqm/blob/main/crypto/crypto-app.sh](https://github.com/semenovem/mqm/blob/main/crypto/crypto-app.sh) |
-| <sub>docker - any where*          | <sub>[https://github.com/semenovem/*](https://github.com/semenovem)                                                                     |
-
-
-<br/>
 <hr />
 
 ### Иннотех `inno.tech`
@@ -35,18 +24,22 @@ java, kotlin, gradle, android, php5, ExtJS, Hyperledger Fabric, ibmmq
 > на проекте:
 > разработка: golang / docker,podman / postgres, redis / linux
 > ci/cd: gitlab / teamcity
-> мониторинг: prometheus, elasticsearch
+> мониторинг/логирование: prometheus/elasticsearch
 > ```
 
 Проекты, задачи:  
-- dion (dion.vc) платформа видео-конференций
-- Проектирование и поддержка микросервисов клиентского api
-- Разработка полнотекствого поиска (postgres)
-- Поддержка системы авторизации/аутентификации (jwt токены/политики)
-- Интерфейсы для партнеров: клиринг для iata.org 
-- Авиа-заправки: ПО для передачи транзакций из внешних систем (`HF`,`sftp`) во внутреннние
-- Развертывание, поддержка приложений в `docker-swarm / podman`
-- Работа с хранилищами крипто-материалов `keytool`, `runmqakm`, `hsm`, `softhsm`
+- команда отвечает за общие сервисы, используемые другими командами
+- в зоне ответственности:
+- - авторизация, общие сущности (пользователи, организации и тд),
+- - панель администратора, api для интеграции, аудит, политики и настройки
+- 7 человек (5 разработчиков + автотестировщик + девопс)
+- проектирую архитектуру новых микросервисов, БД и клиентский api (gRPC/rest)
+- планирую и реализую распил монолитов на микросервисы
+- пишу pipline для cicd gitlab и отвечаю за наличие метрик для мониторинга
+- отвечаю за релизный цикл сервисов команды
+- управляю задачами техдолга
+- являемся 3-ей линией поддержки для клиентов
+- занимаюсь развитием команды
 
 
 <hr />
