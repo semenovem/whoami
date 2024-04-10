@@ -21,7 +21,7 @@ java, kotlin, gradle, android, php5, ExtJS, Hyperledger Fabric, ibmmq
 | <sub>code on golang               | <sub>[https://github.com/semenovem/mqm](https://github.com/semenovem/mqm)                                                               |
 | <sub>frontend (ts, react, css)    | <sub>[https://github.com/semenovem/personal-site-idelia-on-react](https://github.com/semenovem/personal-site-idelia-on-react)           |
 | <sub>openssl (x509, hsm, keytool) | <sub>[https://github.com/semenovem/tool-crypto](https://github.com/semenovem/tool-crypto)                                               |           
-| <sub>shell `yeah, it's weird`     | <sub>[https://github.com/semenovem/mqm/blob/main/crypto/crypto-app.sh](https://github.com/semenovem/mqm/blob/main/crypto/crypto-app.sh) |
+| <sub>shell                        | <sub>[https://github.com/semenovem/mqm/blob/main/crypto/crypto-app.sh](https://github.com/semenovem/mqm/blob/main/crypto/crypto-app.sh) |
 | <sub>docker - any where*          | <sub>[https://github.com/semenovem/*](https://github.com/semenovem)                                                                     |
 
 
@@ -30,7 +30,7 @@ java, kotlin, gradle, android, php5, ExtJS, Hyperledger Fabric, ibmmq
 
 ### Иннотех `inno.tech`
 > <sub>Декабрь 2019 - по наст.время (4+г)</sub>  
-> **Ведущий разработчик**  
+> **Техлид команды платформенных сервисов**
 > ```
 > на проекте:
 > разработка: golang / docker,podman / postgres, redis / linux
